@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Vishal-ToDoApp/static/css/main.9678a0a5.css",
+    "main.js": "/Vishal-ToDoApp/static/js/main.9f9a08e7.js",
+    "static/js/787.a0f63992.chunk.js": "/Vishal-ToDoApp/static/js/787.a0f63992.chunk.js",
+    "index.html": "/Vishal-ToDoApp/index.html",
+    "main.9678a0a5.css.map": "/Vishal-ToDoApp/static/css/main.9678a0a5.css.map",
+    "main.9f9a08e7.js.map": "/Vishal-ToDoApp/static/js/main.9f9a08e7.js.map",
+    "787.a0f63992.chunk.js.map": "/Vishal-ToDoApp/static/js/787.a0f63992.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9678a0a5.css",
+    "static/js/main.9f9a08e7.js"
+  ]
+}
